@@ -5,6 +5,7 @@
   height: 500px;
   height: calc(80vh - 25px);
   display: flex;
+  color: black;
 }
 .card-title {
   text-align: center;
