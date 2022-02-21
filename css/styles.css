@@ -1,0 +1,49 @@
+.jumbotron {
+  background-image: url("../images/cowstarted.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 500px;
+  height: calc(80vh - 25px);
+  display: flex;
+}
+.card-title {
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+.card-subtitle {
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+.sectionHeader {
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  margin: 50px;
+}
+.cardContainer {
+  margin-top: 20px;
+}
+.card {
+  margin: 0 auto;
+}
+br {
+  padding-bottom: 25px;
+}
+.display-4,
+.lead {
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  font-family: "Roboto", sans-serif;
+}
+.lead {
+  font-style: italic;
+}
+.pagination {
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  margin: 50px;
+}
